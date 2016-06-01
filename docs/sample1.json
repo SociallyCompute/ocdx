@@ -35,11 +35,11 @@
 						"uri": "http://flossdata.syr.edu/data/insults/2012LTinsultsLKML.tsv.txt",
 						"checksum": "no assertion",
 						"permissions": "Open Database License 1.0",
-					    "dates": [{
-                            "fileTimeInterval": "",
-                            "dateRetrievedTimeInterval": "",
-                            "dateCreated":, ""
-                            }]
+	                                      "dates": [{
+                                                    "fileTimeInterval": "",
+                                                    "dateRetrievedTimeInterval": "",
+                                                    "dateCreated":, ""
+                                                     }]
 						},
 						{
 						"creator": ["Megan Squire", "Rebecca Gazda"],
